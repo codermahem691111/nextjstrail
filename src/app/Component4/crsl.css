@@ -1,0 +1,43 @@
+.imgtesto {
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+
+
+
+}
+
+
+
+
+#texto {
+   text-shadow: 2px 2px 4px black;
+
+
+
+
+}
+
+#testi2 {
+
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;
+  font-family: 'Oswald', sans-serif;
+ 
+  text-align: center;
+ align-items: center;
+
+
+
+
+}
+
+
+h3 {
+
+ font-family: 'Oswald', sans-serif;
+
+
+}
+

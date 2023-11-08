@@ -1,0 +1,155 @@
+
+#row1 {
+
+    margin-top:40px;
+   width: 100%;
+   overflow-y: hidden;
+   overflow-x: hidden;
+   font-family: 'Oswald', sans-serif;  
+   background-color: #ffffff;
+  
+  
+  }
+
+  #texth {
+
+    overflow-y: hidden;
+    overflow-x:hidden;
+    width: 100%;
+    padding: 20px;
+  
+
+
+  }
+  
+  
+  #cardno1 {
+     height: 360px;
+     width: 200px;
+  
+    margin-right: 50px; 
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 10px  rgb(9, 9, 41);
+    margin-left: 20px; 
+    display: flex;
+    flex-direction: column;  
+    align-items: center;
+    justify-content: center;
+    padding-right: 0px;
+  
+  }
+  
+  
+  #cardno2 {
+    height: 360px;
+    width: 200px;
+  
+   margin-right: 50px; 
+   border-radius: 10px;
+   margin-bottom: 20px;
+   box-shadow: 5px 10px  rgb(9, 9, 41);
+   margin-left: 20px; 
+   display: flex;
+   flex-direction: column;  
+   align-items: center;
+   justify-content: center;
+   padding-right: 0px;
+  
+  }
+  
+  
+  
+  #cartoon1 {
+     
+     width: 150px;
+     height: 300px;
+     margin-left: 20px;
+     margin-bottom: 0;
+     
+  
+  }
+  
+  p {
+    font-size: 17px;
+    margin-left: 25px;
+    
+  
+  
+  
+  }
+  #btn1 {
+    background-color:rgb(9, 9, 41);
+    padding:10px;
+    border-radius: 20px;
+    margin-top:10px;
+    text-align: center;
+   color: white;
+   margin-bottom: 36px;
+  
+  
+  }
+  
+  
+  
+  
+  
+  @media screen  and (min-width : 375px) and (max-width:640px) {
+  
+   #row1  {
+    margin-left:0;
+    margin-right: 30px;
+   padding-right:80px;
+   width: 100%;
+   overflow-x: hidden;  
+  
+  
+   }
+     
+   
+    
+  
+    #cartoon1 {
+     height: 160px;
+     width: 100px;
+  
+  }
+  
+  
+     #cardno1 {
+  
+       margin-top: 30px;
+       margin-left:0px;     
+  
+  
+     }
+  
+     #cardno2
+        {    
+           margin-top:30px;
+           margin-left:0px;
+           
+        
+  
+        }
+  
+  
+     p {
+  
+         font-size: 12px;
+         
+  
+  
+     }    
+  
+  
+   #btn1 {
+     margin-bottom: 10px;
+  
+  
+  
+  
+   }
+  
+  
+  }

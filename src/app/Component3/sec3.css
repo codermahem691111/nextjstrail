@@ -1,0 +1,25 @@
+#smile {
+
+ height: 300px;
+ width: 370px;
+ padding:20px;
+ @media (max-width: 640px) and (min-width: 375px) {
+   height: 270px;
+   width: 300px; 
+
+
+ }
+
+}
+
+#maincon {
+
+   overflow-x: hidden;
+   width: 100%;
+   overflow-y:hidden ;
+
+
+
+}
+
+

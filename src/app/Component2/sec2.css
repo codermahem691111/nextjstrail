@@ -1,0 +1,28 @@
+#imgmix {
+ height: 400px;
+ width:500px;  
+ padding:30px;
+ background-color: linear-gradient(to bottom left,rgba(17,16,16,0.678),rgba(12,10,22,0.863));
+ @media (max-width: 640px) and (min-width: 375px)
+   {
+
+     height: 300px;
+     width:270px;
+
+
+   }
+
+
+}
+
+#maincont {
+
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden; 
+
+
+
+}
+
+

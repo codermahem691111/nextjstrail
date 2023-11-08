@@ -1,0 +1,38 @@
+#vbody {
+
+  height: 300px;
+  width: 360px;
+  @media screen and (min-width: 375px) and (max-width: 640px) and (orientation: portrait) {
+     
+   height: 200px;
+   width: 250px;
+
+
+  }  
+
+
+
+}
+
+.vcnt {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;   
+
+
+}
+
+
+h3 {
+
+  font-family:'Oswald', sans-serif; ;
+
+
+
+}
